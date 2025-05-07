@@ -160,6 +160,6 @@ For additional technical reference, please see the following links used.
 * [Java - Deployment Configuration File and Properties](https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/properties.html)
 
 # Bugs, Issues and Feature Requests
-Please report all bugs, issues and feature requests in the [issue tracker](https://github.com/wagov/Essential8-GPOs/issues)
+Please report all bugs, issues and feature requests in the [issue tracker](https://github.com/haris2887/Essential8-GPOs/issues)
 
 
